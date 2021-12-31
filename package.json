@@ -1,6 +1,6 @@
 {
   "name": "aos_translator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "translate android project, create xml files",
   "main": "app.js",
   "scripts": {

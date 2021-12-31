@@ -106,6 +106,7 @@ async function generateXMLStrings(options) {
     }
     fs.writeFileSync(`${outputDir}/strings.xml`, xmlValuesString);
   }
+  return data;
 }
 
 module.exports = {
