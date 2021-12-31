@@ -1,6 +1,6 @@
 {
   "name": "aos_translator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "translate android project, create xml files",
   "main": "app.js",
   "scripts": {
@@ -18,7 +18,9 @@
     "url": "git+https://github.com/paigeshin/aos_translator.git"
   },
   "keywords": [
-    "android"
+    "android",
+    "xml",
+    "translation"
   ],
   "bugs": {
     "url": "https://github.com/paigeshin/aos_translator/issues"
